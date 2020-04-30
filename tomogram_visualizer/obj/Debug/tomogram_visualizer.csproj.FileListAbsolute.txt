@@ -1,0 +1,16 @@
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.exe.config
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.exe
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.pdb
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.dll
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.GLControl.dll
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.pdb
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.xml
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.dll.config
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.GLControl.xml
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csprojAssemblyReference.cache
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.Form1.resources
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.Properties.Resources.resources
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csproj.GenerateResource.cache
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csproj.CopyComplete
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.exe
+D:\Programming\компьютерная графика\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.pdb
